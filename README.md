@@ -1,2 +1,5 @@
 # manga-reader
-Read my original manga online
+
+เว็บไซต์อ่านมังงะของ ai- gg
+
+กำลังอยู่ระหว่างการพัฒนา...
